@@ -5,7 +5,7 @@
 <h1 align="center">Garam Kim</h1>
 
 <p align="center">
-  Bringing <code>Unreal</code> AI into <code>Unity</code>.<br>
+  <code>Unreal</code> AI, <code>Unity</code> Experience<br>
   <sub>Making AI feel real. Software engineer → AI researcher.</sub>
 </p>
 
@@ -83,7 +83,7 @@ Fundamentals forged at **Krafton Jungle**, plus the execution to absorb unfamili
 <!-- START_SECTION:activity_svg -->
 <p align="center">
   <a href="https://github.com/Kgr0831/kgr0831.github.io/commits/main">
-    <img src="assets/commits_terminal.svg?v=1781549093" alt="Garam's Recent Activity" width="100%">
+    <img src="assets/commits_terminal.svg?v=1781550430" alt="Garam's Recent Activity" width="100%">
   </a>
 </p>
 <!-- END_SECTION:activity_svg -->
@@ -93,11 +93,11 @@ Fundamentals forged at **Krafton Jungle**, plus the execution to absorb unfamili
   <br>
 
 <!-- START_SECTION:activity_list -->
-- **5b8b2f3** - chore: auto-update recent commits in README [skip ci] (3 minutes ago)
-- **a83b0b3** - feat: move recent updates down, add Website link badge at README top, and slightly reduce website lede font size (3 minutes ago)
-- **d18bef8** - chore: auto-update recent commits in README [skip ci] (4 minutes ago)
-- **504da65** - feat: add GitHub links for HELIX, EUM, and Unitrio projects (4 minutes ago)
-- **5305dc0** - feat: move // github stats to bottom and replace streak stats with top languages card (6 minutes ago)
+- **84abba7** - style: revert default language to English on initial load (57 seconds ago)
+- **479f889** - chore: auto-update recent commits in README [skip ci] (3 minutes ago)
+- **a57bbe6** - style: change HELIX role to 1인 개발 and Unitrio role to 리더 & 게임플레이 및 렌더링 프로그래밍 (3 minutes ago)
+- **455cc09** - style: align English translations to match updated Korean localization (3 minutes ago)
+- **190a4eb** - chore: auto-update recent commits in README [skip ci] (6 minutes ago)
 <!-- END_SECTION:activity_list -->
 </details>
 
