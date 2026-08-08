@@ -100,20 +100,3 @@ Fundamentals forged at **Krafton Jungle**, plus the execution to absorb unfamili
 - **190a4eb** - chore: auto-update recent commits in README [skip ci] (6 minutes ago)
 <!-- END_SECTION:activity_list -->
 </details>
-
----
-
-### // github stats
-
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/Kgr0831.svg?scheme=unicorn" alt="Garam's GitHub Contributions" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kgr0831&show_icons=true&bg_color=0b0f19&title_color=38bdf8&icon_color=3b82f6&text_color=e2e8f0&border_color=1f2937&hide_rank=true" alt="Garam's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kgr0831&layout=compact&bg_color=0b0f19&title_color=38bdf8&text_color=e2e8f0&border_color=1f2937" alt="Garam's Top Languages" height="165">
-</p>
-
----
-
-<p align="center"><sub>Building in the spirit of Eiji Aonuma & Satoru Iwata. A lifelong Zelda player.</sub></p>
