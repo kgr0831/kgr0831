@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://kgr0831.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.miricanvas.com/v2/ko/design2/v/432c0240-7b2b-4eae-8089-0bfa18236caa" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.miricanvas.com/v2/ko/design2/v/ef3be32a-b2e9-49ec-af6e-994dce526871" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
   <a href="https://kgr0831.github.io/Garam_Kim_CV.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"></a>
   <a href="https://kgr0831.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-E11D48?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/kimgalam0831/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
