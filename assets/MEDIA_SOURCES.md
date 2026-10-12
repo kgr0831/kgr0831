@@ -4,7 +4,7 @@ All screenshots and illustrations are copied from the existing portfolio assets 
 
 | Files | Source |
 | --- | --- |
-| `banner.png` | Current Garam Kim profile banner, authored in HTML/CSS and rendered at 3168 × 792. |
+| `banner.png` | Centered GitHub banner, authored in `banner-source/banner.html` and `banner-source/styles.css`, rendered at 3168 × 792. The separate LinkedIn banner is unchanged. |
 | `media/eum-video.jpg` | [EUM presentation](https://www.youtube.com/watch?v=Pnjw9WitAXg), original video thumbnail. |
 | `media/rol-poster.jpg` | [Remnents of Light gameplay](https://www.youtube.com/watch?v=WHP7L8P5Be8), original video thumbnail. |
 | `media/rol-workflow.jpg` | ROLAI request and validation screenshot used in the existing portfolio. |

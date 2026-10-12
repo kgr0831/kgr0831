@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Garam Kim · AI Native Software Engineer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="banner-shell">
+    <section id="banner" aria-label="Garam Kim. AI Native Software Engineer. I define problems. Technology is my tool for solving them.">
+      <svg class="background-mark" viewBox="0 0 1584 396" aria-hidden="true" focusable="false">
+        <g class="monogram-lines">
+          <text x="1292" y="312" opacity=".35">G</text>
+          <text x="1304" y="303" opacity=".5">G</text>
+          <text x="1316" y="294" opacity=".7">G</text>
+          <text x="1328" y="285" opacity=".9">G</text>
+        </g>
+        <text x="1340" y="276" class="monogram-fill">G</text>
+      </svg>
+      <div class="copy">
+        <p class="statement"><span>I define problems.</span><span>Technology is my tool for solving them.</span></p>
+        <div class="identity">
+          <h1>Garam Kim</h1>
+          <p class="role">AI Native Software Engineer</p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <script>
+    const shell = document.querySelector('.banner-shell');
+    function fit() {
+      const scale = document.documentElement.classList.contains('capture') ? 1 : Math.min(1, (innerWidth - 32) / 1584);
+      shell.style.setProperty('--scale', scale);
+    }
+    addEventListener('resize', fit);
+    fit();
+  </script>
+</body>
+</html>

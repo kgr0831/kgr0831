@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="I define problems. Technology is my tool for solving them. Garam Kim — AI Native Software Engineer." width="100%">
+  <img src="assets/banner.png?v=centered-20261013" alt="I define problems. Technology is my tool for solving them. Garam Kim — AI Native Software Engineer." width="100%">
 </p>
 
 <h1 align="center">Garam Kim</h1>
