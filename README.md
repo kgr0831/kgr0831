@@ -1,102 +1,138 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Garam Kim Profile Banner" width="100%">
+  <img src="assets/banner.png" alt="I define problems. Technology is my tool for solving them. Garam Kim — AI Native Software Engineer." width="100%">
 </p>
 
 <h1 align="center">Garam Kim</h1>
+<p align="center"><b>AI Native Software Engineer</b></p>
 
 <p align="center">
-  <code>Unreal</code> AI, <code>Unity</code> Experience<br>
-  <sub>Making AI feel real. Software engineer → AI researcher.</sub>
+  <a href="portfolio/Garam_Kim_Portfolio.pdf"><img src="assets/badges/portfolio.svg" alt="Portfolio PDF" height="30"></a>
+  <a href="https://kgr0831.github.io/"><img src="assets/badges/website.svg" alt="Website" height="30"></a>
+  <a href="https://kgr0831.github.io/Garam_Kim_CV.pdf"><img src="assets/badges/cv.svg" alt="CV" height="30"></a>
+  <a href="https://kgr0831.tistory.com/"><img src="assets/badges/blog.svg" alt="Blog" height="30"></a>
+  <a href="https://www.linkedin.com/in/kimgalam0831/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="30"></a>
+  <a href="mailto:kimgalam0831@gmail.com"><img src="assets/badges/email.svg" alt="Email" height="30"></a>
 </p>
+
+I find and define problems in the way people work, build, and use software. **Technology is a means to solve them.** I work with AI agents to learn unfamiliar systems, build solutions, and verify the result. Alongside the engineering, I explore what people need and why they would use a product.
+
+## Tools I use
 
 <p align="center">
-  <a href="https://kgr0831.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.miricanvas.com/v2/ko/design2/v/ef3be32a-b2e9-49ec-af6e-994dce526871" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
-  <a href="https://kgr0831.github.io/Garam_Kim_CV.pdf"><img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV"></a>
-  <a href="https://kgr0831.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-E11D48?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog"></a>
-  <a href="https://www.linkedin.com/in/kimgalam0831/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kimgalam0831@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/unity-dark.svg"><img src="assets/icons/unity-light.svg" height="40" alt="Unity" title="Unity"></picture>&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/nextjs-dark.svg"><img src="assets/icons/nextjs-light.svg" height="40" alt="Next.js" title="Next.js"></picture>&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/orca-dark.svg"><img src="assets/icons/orca-light.svg" height="40" alt="Orca" title="Orca"></picture>&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/codex-dark.svg"><img src="assets/icons/codex-light.svg" height="40" alt="Codex" title="Codex"></picture>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icons/hermes.png" height="40" alt="Hermes" title="Hermes">
+</p>
+<p align="center"><b>Unity · Next.js</b> &nbsp; / &nbsp; Orca · Codex · Hermes</p>
+
+## Selected work
+
+### EUM
+
+**AI meeting and whiteboard workspace · Five-person team · Whiteboard developer**
+
+<a href="https://www.youtube.com/watch?v=Pnjw9WitAXg"><img src="assets/media/eum-video.jpg" width="100%" alt="Watch EUM: AI video meetings with a shared whiteboard"></a>
+
+Drawing became sluggish during video calls. I found the rendering bottleneck and rebuilt the whiteboard renderer with WebGPU and PixiJS v8, learning the graphics concepts with AI. **23.7 → 58.7 FPS** average in project measurements.
+
+<p>
+  <a href="https://github.com/kgr0831/EUM2"><img src="assets/badges/code.svg" height="28" alt="EUM code"></a>
+  <a href="https://www.youtube.com/watch?v=Pnjw9WitAXg"><img src="assets/badges/watch.svg" height="28" alt="Watch EUM presentation"></a>
+  <a href="https://jungle.krafton.com/news/103"><img src="assets/badges/case-study.svg" height="28" alt="KRAFTON Jungle project introduction"></a>
 </p>
 
----
+### <img src="assets/moai.png" height="28" alt=""> MOAI
 
-### // about
+**AX Engineer Intern · Sep 2026 – Present**
 
-Fundamentals forged at **Krafton Jungle**, plus the execution to absorb unfamiliar tech **top-down** — prototype fast by pairing with AI agents, then verify by hand. A long-time game developer at heart, now aiming to help make AI **native and approachable**.
+<a href="portfolio/Garam_Kim_Portfolio.pdf#page=6"><picture><source media="(max-width: 600px)" srcset="assets/media/moai-contributions-mobile.svg"><img src="assets/media/moai-contributions.svg" width="100%" alt="MOAI contribution overview: AI usage tracking, consistent admin workflows, and chat-based follow-up work in progress"></picture></a>
 
-- **Goal** — AI Researcher (AI R&D), at the intersection of games and AI
-- **Focus** — LLM & SLM optimization · heterogeneous multi-agent systems · on-device LM compression
-- **Learning** — Mesa · LangGraph · RAG & harnessing
-- **Open to** — AI Research · AI FDE · AI Native
+I contributed to usage tracking and admin workflows, fixed outdated responses overwriting current search results, and made task counts consistent with their status. Chat-based follow-up work is in development.
 
----
+<a href="portfolio/Garam_Kim_Portfolio.pdf#page=6"><img src="assets/badges/case-study.svg" height="28" alt="Read the MOAI case study"></a>
 
-### // stack
+### Remnents of Light / ROLAI
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white" alt="Assembly">
-  <img src="https://img.shields.io/badge/WGSL-005A9C?style=flat-square&logo=webgpu&logoColor=white" alt="WGSL">
+**Solo-developed Unity action game · Released demo · Game development automation**
+
+<p>
+  <a href="https://www.youtube.com/watch?v=WHP7L8P5Be8"><img src="assets/media/rol-poster.jpg" width="49%" alt="Watch Remnents of Light gameplay"></a>
+  <a href="portfolio/Garam_Kim_Portfolio.pdf#page=34"><img src="assets/media/rol-workflow.jpg" width="49%" alt="ROLAI: a Discord development request, AI implementation, and recorded validation result"></a>
 </p>
 
-**Frameworks & Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/PixiJS-E72264?style=flat-square&logo=white" alt="PixiJS">
-  <img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white" alt="WebGPU">
+I built and released the game and shaped ROLAI around its development bottlenecks: Discord requests connected to AI-driven Unity work, test logs, and gameplay recordings. Repeatable test conditions help distinguish code defects from setup failures.
+
+<p>
+  <a href="https://kgr0831.itch.io/remnents-of-light"><img src="assets/badges/play.svg" height="28" alt="Download and play the demo"></a>
+  <a href="https://www.youtube.com/watch?v=WHP7L8P5Be8"><img src="assets/badges/watch.svg" height="28" alt="Watch gameplay"></a>
+  <a href="https://github.com/kgr0831/Remnents-of-Light"><img src="assets/badges/code.svg" height="28" alt="Remnents of Light and ROLAI code"></a>
 </p>
 
-**Infra & AI Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex">
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logoColor=white" alt="Antigravity">
+### <img src="assets/icons/dudri.png" height="30" alt=""> Dudri · 두드리
+
+**Connecting students' experiences with applications, people, and projects**
+
+<a href="https://www.youtube.com/watch?v=vvsyQIOtiUQ"><img src="assets/media/dudri-video.jpg" width="100%" alt="Watch Dudri: experience profiles, AI documents, coffee chats, and projects"></a>
+
+An AI-assisted **specification → implementation → verification** workflow helped turn a short hackathon into a working service. **Grand Prize · 1st place, 2026 KOSSCCHTHON**, jointly held by Kookmin, Soongsil, and Soonchunhyang Universities.
+
+<p>
+  <a href="assets/media/dudri-award.jpg"><img src="assets/badges/award.svg" height="28" alt="View the Grand Prize award photo"></a>
+  <a href="https://www.youtube.com/watch?v=vvsyQIOtiUQ"><img src="assets/badges/watch.svg" height="28" alt="Watch Dudri demo"></a>
+  <a href="https://github.com/kgr0831/KOSSCCHTHON_2026"><img src="assets/badges/code.svg" height="28" alt="Dudri code"></a>
 </p>
 
----
+## <img src="assets/icons/vfriend.svg" height="30" alt=""> Virtual Friend
 
-### // selected work
+<img src="assets/badges/wip.svg" height="28" alt="Work in progress">
 
-**EUM** · 2025.12 – 2026.01 — Browser-based AI video-meeting platform with real-time interpretation and a WebGPU infinite-canvas whiteboard. Owned the whiteboard full-stack: built a custom renderer on PixiJS v8 / WebGPU that lifted average frame rate from **23.7 → 58.7 FPS** at 60Hz. → [github](https://github.com/jb0xyz/EUM) · [demo & write-up](https://jungle.krafton.com/news/103)
-
-**HELIX** · 2026.04 — Heterogeneous multi-agent collaboration system to reduce hallucination and minimize API cost. → [github](https://github.com/kgr0831/HELIX) · [live](https://helix-ssu.vercel.app/)
-
-**Unitrio** · ongoing — A 2D top-down action-RPG sandbox, built with a five-person indie team. → [github](https://github.com/kgr0831/UniTrio-Game-2026)
-
----
-
-### // recent updates
-
-<!-- START_SECTION:activity_svg -->
-<p align="center">
-  <a href="https://github.com/Kgr0831/kgr0831.github.io/commits/main">
-    <img src="assets/commits_terminal.svg?v=1781550430" alt="Garam's Recent Activity" width="100%">
-  </a>
+<p>
+  <a href="portfolio/Garam_Kim_Portfolio.pdf#page=37"><img src="assets/media/vfriend-star-mender.png" width="32%" alt="Star Mender character illustration from the Virtual Friend prototype"></a>
+  <a href="portfolio/Garam_Kim_Portfolio.pdf#page=37"><img src="assets/media/vfriend-night-bookseller.png" width="32%" alt="Night Bookseller character illustration from the Virtual Friend prototype"></a>
+  <a href="portfolio/Garam_Kim_Portfolio.pdf#page=37"><img src="assets/media/vfriend-cloud-mechanic.png" width="32%" alt="Cloud Mechanic character illustration from the Virtual Friend prototype"></a>
 </p>
-<!-- END_SECTION:activity_svg -->
 
-<details>
-  <summary><b>View commit logs as text</b></summary>
-  <br>
+Character illustrations from the current prototype. The service explores consistent **voice, appearance, and memory**. Conversations, memory, and voice messages are prototyped; low-latency speech-to-speech and LoRA-based visual consistency remain development targets. I am exploring the business model alongside the engineering.
 
-<!-- START_SECTION:activity_list -->
-- **84abba7** - style: revert default language to English on initial load (57 seconds ago)
-- **479f889** - chore: auto-update recent commits in README [skip ci] (3 minutes ago)
-- **a57bbe6** - style: change HELIX role to 1인 개발 and Unitrio role to 리더 & 게임플레이 및 렌더링 프로그래밍 (3 minutes ago)
-- **455cc09** - style: align English translations to match updated Korean localization (3 minutes ago)
-- **190a4eb** - chore: auto-update recent commits in README [skip ci] (6 minutes ago)
-<!-- END_SECTION:activity_list -->
-</details>
+## More automation work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kgr0831/PaperBridge"><img src="assets/media/paperbridge-reader.png" width="100%" alt="PaperBridge reader with a sample document and AI questions"></a><br>
+      <img src="assets/icons/paperbridge.svg" height="26" alt=""> <b>PaperBridge</b><br>
+      Paper reading, questions, and evidence in one workspace. Sample-document view.<br>
+      <a href="https://github.com/kgr0831/PaperBridge"><img src="assets/badges/code.svg" height="26" alt="PaperBridge project"></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/kgr0831/Gammarupage"><img src="assets/media/gammaru-site.png" width="100%" alt="Gammaru game-development club website"></a><br>
+      <img src="assets/icons/gammaru.png" height="30" alt=""> <b>Gammaru</b><br>
+      Club website and daily research, briefing, and notification automation.<br>
+      <a href="https://github.com/kgr0831/Gammarupage"><img src="assets/badges/code.svg" height="26" alt="Gammaru code"></a>
+    </td>
+  </tr>
+</table>
+
+[**Abstraction Bot**](https://github.com/kgr0831/Abstraction-Bot) turns Discord discussions into summaries and records. My unattended screen-golf CMS work connects operations with ledger-based settlement.
+
+## <img src="assets/jungle.png" height="25" alt=""> PintOS
+
+**Operating-system fundamentals · Thread scheduling, user programs, and virtual memory**
+
+<a href="portfolio/Garam_Kim_Portfolio.pdf#page=19"><picture><source media="(max-width: 600px)" srcset="assets/media/pintos-design-mobile.svg"><img src="assets/media/pintos-design.svg" width="100%" alt="Release-Trigger experiment: multiple and nested donation exposed lost dependencies; redesign tracked donation per lock and passed related tests"></picture></a>
+
+My Release-Trigger simplification failed under multiple and nested donations. I traced the missing dependencies and lock-release timing, rebuilt the design around per-lock state, and passed the related tests. **Finding the flaw in my own idea was the most valuable part.**
+
+<a href="portfolio/Garam_Kim_Portfolio.pdf#page=19"><img src="assets/badges/case-study.svg" height="28" alt="Read the PintOS case study"></a>
+
+## Experience & education
+
+| | Experience | Period |
+| --- | --- | --- |
+| <img src="assets/moai.png" width="38" alt="MOAI"> | **MOAI**<br>AX Engineer Intern | Sep 2026 – Present |
+| <img src="assets/soongsil.svg" width="40" alt="Soongsil University"> | **숭실평화통일 연구원 · SmartAI Lab**<br>Undergraduate Researcher · Pyongsong social simulation | Apr – Aug 2026 |
+| <img src="assets/soongsil.svg" width="40" alt="Soongsil University"> | **Soongsil University**<br>AI Software | Mar 2026 – Present |
+| <img src="assets/jungle.png" width="76" alt="KRAFTON Jungle"> | **KRAFTON Jungle**<br>SW-AI Lab, 11th cohort · PintOS and EUM | Sep 2025 – Jan 2026 |
+| <img src="assets/gamehs.svg" width="40" alt="Korea Game Science High School"> | **Korea Game Science High School**<br>Computer Game Development · Student Council President · Founder and president of game development club Dash | Mar 2023 – Feb 2026 |
