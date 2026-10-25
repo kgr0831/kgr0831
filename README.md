@@ -94,7 +94,9 @@ An AI-assisted **specification → implementation → verification** workflow he
   <a href="portfolio/Garam_Kim_Portfolio.pdf#page=37"><img src="assets/media/vfriend-cloud-mechanic.png" width="32%" alt="Cloud Mechanic character illustration from the Virtual Friend prototype"></a>
 </p>
 
-Character illustrations from the current prototype. The service explores consistent **voice, appearance, and memory**. Conversations, memory, and voice messages are prototyped; low-latency speech-to-speech and LoRA-based visual consistency remain development targets. I am exploring the business model alongside the engineering.
+Character illustrations from the prototype. I found that premature turn detection interrupted speech, while saving unheard replies made later conversations inconsistent. The local app now supports **real-time voice calls, interruptions, and shared call/chat memory**: only confirmed speech and played replies enter the record. Per-account storage and character image generation are also prototyped.
+
+One real-API trial with synthetic microphone input took **3.48 seconds to first audio**; the 0.5-second target remains unmet. Human microphone use and larger samples are untested. Lower latency, LoRA-based visual consistency, and the business model remain work in progress.
 
 ## More automation work
 
@@ -107,10 +109,11 @@ Character illustrations from the current prototype. The service explores consist
       <a href="https://github.com/kgr0831/PaperBridge"><img src="assets/badges/code.svg" height="26" alt="PaperBridge project"></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/kgr0831/Gammarupage"><img src="assets/media/gammaru-site.png" width="100%" alt="Gammaru game-development club website"></a><br>
+      <a href="https://gammaru.dev/"><img src="assets/media/gammaru-site.png" width="100%" alt="Gammaru game-development club website"></a><br>
       <img src="assets/icons/gammaru.png" height="30" alt=""> <b>Gammaru</b><br>
-      Club website and daily research, briefing, and notification automation.<br>
+      Public club and game pages on GitHub Pages; member reports, login, and notifications on AWS. Kept member data out of the public build while preserving the daily briefing workflow.<br>
       <a href="https://github.com/kgr0831/Gammarupage"><img src="assets/badges/code.svg" height="26" alt="Gammaru code"></a>
+      <a href="https://gammaru.dev/"><img src="assets/badges/website.svg" height="26" alt="Visit Gammaru"></a>
     </td>
   </tr>
 </table>
