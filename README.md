@@ -94,9 +94,24 @@ An AI-assisted **specification → implementation → verification** workflow he
   <a href="portfolio/Garam_Kim_Portfolio.pdf#page=37"><img src="assets/media/vfriend-cloud-mechanic.png" width="32%" alt="Cloud Mechanic character illustration from the Virtual Friend prototype"></a>
 </p>
 
-Character illustrations from the prototype. I found that premature turn detection interrupted speech, while saving unheard replies made later conversations inconsistent. The local app now supports **real-time voice calls, interruptions, and shared call/chat memory**: only confirmed speech and played replies enter the record. Per-account storage and character image generation are also prototyped.
+Character illustrations from the prototype. **A fast answer is not enough to feel like the same friend.** I found that acknowledgments could cut off speech, corrections could invalidate prepared answers, and unheard replies could distort later memories.
 
-One real-API trial with synthetic microphone input took **3.48 seconds to first audio**; the 0.5-second target remains unmet. Human microphone use and larger samples are untested. Lower latency, LoRA-based visual consistency, and the business model remain work in progress.
+<a href="portfolio/Garam_Kim_Portfolio.pdf#page=39"><img src="assets/media/vfriend-voice-lab.png" width="100%" alt="Virtual Friend voice research prototype: scripted turn-taking test and separate timing measurements"></a>
+
+*Local voice research prototype with scripted input.*
+
+| Problem I found | What I built or tested |
+| --- | --- |
+| “Mm-hm” interrupts the character | Preserve playback for acknowledgments; cancel on explicit stops; keep the full input when speech continues. |
+| A prepared answer becomes wrong | Prepare from partial transcripts, reuse exact input matches, and cancel/regenerate after corrections. |
+| Quick fillers hide a slow answer | Measure main-audio readiness and playback separately; cancel pending fillers when the answer is ready. |
+| Unheard replies become memories | The main app saves confirmed speech and played replies, connecting call and chat memory. |
+
+Recorded browser checks covered acknowledgment, stop, and long-utterance scenarios using **real APIs with text input**. Three individual text-input trials recorded **1.359–2.063s from final transcript to main-audio scheduling**, excluding recognition and physical speaker output. These are exploratory samples, not a speedup claim or service guarantee. The earlier app trial with synthetic microphone input took 3.48s to first audio; the 0.5s target remains unmet.
+
+The new research demo uses session context and test memories; connecting it to the main app’s account memory remains open. Human microphone and long-call evaluation, semantic turn decisions, LoRA-based visual consistency, and the business model are still **WIP**.
+
+<a href="portfolio/Garam_Kim_Portfolio.pdf#page=37"><img src="assets/badges/case-study.svg" height="28" alt="Read the Virtual Friend case study"></a>
 
 ## More automation work
 
