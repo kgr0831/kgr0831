@@ -109,9 +109,21 @@ Character illustrations from the prototype. **A fast answer is not enough to fee
 
 Recorded browser checks covered acknowledgment, stop, and long-utterance scenarios using **real APIs with text input**. Three individual text-input trials recorded **1.359–2.063s from final transcript to main-audio scheduling**, excluding recognition and physical speaker output. These are exploratory samples, not a speedup claim or service guarantee. The earlier app trial with synthetic microphone input took 3.48s to first audio; the 0.5s target remains unmet.
 
-The new research demo uses session context and test memories; connecting it to the main app’s account memory remains open. Human microphone and long-call evaluation, semantic turn decisions, LoRA-based visual consistency, and the business model are still **WIP**.
+**From voice lab to web beta:** I integrated the research engine with existing accounts’ one-to-one calls, character settings and permitted memories. Only played phrases enter the record. An Oct 27 deployment check used real APIs and a synthetic microphone to verify two replies, recall of an earlier preference and saved call records. On Oct 31, 21 related mock tests passed and public client files matched the audited source. Group calls retain the prior engine.
+
+Human microphone and long-call evaluation, latency distributions, visual consistency, and the business model remain **WIP**. The screenshot and timing samples above document the earlier Oct 25 research.
 
 <a href="portfolio/Garam_Kim_Portfolio.pdf#page=37"><img src="assets/badges/case-study.svg" height="28" alt="Read the Virtual Friend case study"></a>
+
+## <img src="assets/icons/orca-light.svg" height="30" alt=""> Orca-STS
+
+**Voice features on the Orca IDE · Windows preview released**
+
+Thinking aloud while reading code needs listening, replies and interruptions to work together. I extended Orca with continuous voice conversations, local turn decisions and cancellable streaming playback. Uncertain sends retain the input, and the existing approval flow stays in place.
+
+The fork’s **v1.4.214-sts.5 Windows preview** is available. Relevant CI passed voice contracts, typechecking, the Windows build and local-model verification. On Oct 31, 23 related mock tests passed. The upstream contribution for existing chats and terminals is **open, not merged**. The base IDE is existing Orca work; synthetic model examples do not establish real multilingual accuracy or faster replies.
+
+[Source](https://github.com/kgr0831/Orca-STS) · [Windows preview](https://github.com/kgr0831/Orca-STS/releases/tag/v1.4.214-sts.5) · [Upstream contribution](https://github.com/stablyai/orca/pull/33850) · [Case study](portfolio/Garam_Kim_Portfolio.pdf#page=42)
 
 ## More automation work
 
