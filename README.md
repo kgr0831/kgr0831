@@ -115,6 +115,8 @@ Human microphone and long-call evaluation, latency distributions, visual consist
 
 <a href="portfolio/Garam_Kim_Portfolio.pdf#page=37"><img src="assets/badges/case-study.svg" height="28" alt="Read the Virtual Friend case study"></a>
 
+**Relationships that resume:** I connected 10 relationship stages, 20 information cards and 3 resumable stories, preserving acquired information and preventing duplicate rewards. Mobile navigation now separates remote loading from screen changes and confines transitions to content. The Nov 4 main merge and CI passed, with earlier web beta deployment records checked. On Nov 7, I reran related mock regression tests. AI relationship quality, return visits and physical phone usability remain unverified. Recent large-text and focus fixes and the separate architecture experiment remain local work. [Follow-up case study](portfolio/Garam_Kim_Portfolio.pdf#page=43)
+
 ## <img src="assets/icons/orca-light.svg" height="30" alt=""> Orca-STS
 
 **Voice features on the Orca IDE · Windows preview released**
@@ -124,6 +126,16 @@ Thinking aloud while reading code needs listening, replies and interruptions to 
 The fork’s **v1.4.214-sts.5 Windows preview** is available. Relevant CI passed voice contracts, typechecking, the Windows build and local-model verification. On Oct 31, 23 related mock tests passed. The upstream contribution for existing chats and terminals is **open, not merged**. The base IDE is existing Orca work; synthetic model examples do not establish real multilingual accuracy or faster replies.
 
 [Source](https://github.com/kgr0831/Orca-STS) · [Windows preview](https://github.com/kgr0831/Orca-STS/releases/tag/v1.4.214-sts.5) · [Upstream contribution](https://github.com/stablyai/orca/pull/33850) · [Case study](portfolio/Garam_Kim_Portfolio.pdf#page=42)
+
+## Timetable planner
+
+**Feasible course choices and explicit tradeoffs · Runnable local demo**
+
+Conflicting course constraints need a schedule whose validity can be checked. I connected a supplied rule specification to OR-Tools CP-SAT for recommendations, section alternatives and minimal permitted relaxation, then independently rechecked worker results in Node. Original constraints stay visible before saving, with semester calendars and ICS export connected to the result.
+
+The implementation is merged into public source. On Nov 7, I reran Node integration and Python solver tests. The demo uses **50 courses and 150 synthetic sections**. Actual course offerings, graduation eligibility and the specification’s 676-result claim remain unverified. The supplied rule package is separate from my engine integration and application work. This is a local demo without hosted deployment.
+
+[Source](https://github.com/kgr0831/openSourceProject) · [Validation record](https://github.com/kgr0831/openSourceProject/blob/main/timetable-demo/solver/VALIDATION.md) · [Case study](portfolio/Garam_Kim_Portfolio.pdf#page=44)
 
 ## More automation work
 
