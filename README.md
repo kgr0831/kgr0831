@@ -117,6 +117,8 @@ Human microphone and long-call evaluation, latency distributions, visual consist
 
 **Relationships that resume:** I connected 10 relationship stages, 20 information cards and 3 resumable stories, preserving acquired information and preventing duplicate rewards. Mobile navigation now separates remote loading from screen changes and confines transitions to content. The Nov 4 main merge and CI passed, with earlier web beta deployment records checked. On Nov 7, I reran related mock regression tests. AI relationship quality, return visits and physical phone usability remain unverified. Recent large-text and focus fixes and the separate architecture experiment remain local work. [Follow-up case study](portfolio/Garam_Kim_Portfolio.pdf#page=43)
 
+**Public knowledge, private memories:** I separated historical characters' background from user memories, selected relevant sources for conversations and added resumable first encounters for 25 personas. Source types and search refusal stay explicit, while private chats and duplicate rewards are kept out of the shared flow. Verified the Nov 13 web beta deployment and matching public UI code, with 10 mock tests passing on Nov 14. Actual model accuracy, long conversations and voice quality still need evaluation. [Knowledge boundaries case study](portfolio/Garam_Kim_Portfolio.pdf#page=46)
+
 ## <img src="assets/icons/orca-light.svg" height="30" alt=""> Orca-STS
 
 **Voice features on the Orca IDE · Windows preview released**
@@ -134,6 +136,8 @@ The fork’s **v1.4.214-sts.5 Windows preview** is available. Relevant CI passed
 Conflicting course constraints need a schedule whose validity can be checked. I connected a supplied rule specification to OR-Tools CP-SAT for recommendations, section alternatives and minimal permitted relaxation, then independently rechecked worker results in Node. Original constraints stay visible before saving, with semester calendars and ICS export connected to the result.
 
 The implementation is merged into public source. On Nov 7, I reran Node integration and Python solver tests. The demo uses **50 courses and 150 synthetic sections**. Actual course offerings, graduation eligibility and the specification’s 676-result claim remain unverified. The supplied rule package is separate from my engine integration and application work. This is a local demo without hosted deployment.
+
+**Classes and deadlines together:** I built a reusable Canvas and LearningX collector and connected selected course events to the semester calendar. Stable IDs separate accounts and prevent duplicates; partial collection failures preserve previous deadlines and existing personal entries. The code was merged on Nov 10. On Nov 14, **45 parser tests, 10 calendar tests and one Chrome flow passed with synthetic LMS data**. No real school account was used. School changes require another import; external calendar auto-sync and AI summarization are not provided. [LMS case study](portfolio/Garam_Kim_Portfolio.pdf#page=45)
 
 [Source](https://github.com/kgr0831/openSourceProject) · [Validation record](https://github.com/kgr0831/openSourceProject/blob/main/timetable-demo/solver/VALIDATION.md) · [Case study](portfolio/Garam_Kim_Portfolio.pdf#page=44)
 
