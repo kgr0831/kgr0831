@@ -11,7 +11,6 @@ I build products that put AI to use. AX Engineer Intern at MOAI.
 | **MOAI** | Admin search, filters, pagination and consistent aggregate counts. Admin feature PR merged. |
 | **[EUM](https://github.com/kgr0831/EUM2)** | Real-time whiteboard in a five-person team. PixiJS v8 / WebGPU renderer, input smoothing and batched updates. Average 23.7 to 58.7 FPS in the original project measurement; hardware and object count were not recorded. |
 | **[Dudri](https://github.com/kgr0831/KOSSCCHTHON_2026)** | AI profiles and community. 1st prize at 2026 KOSSCCHTHON. Post-award work separated generation, versions and publication while preserving hand-written code during visual editing. |
-| **[On Your Mark](https://github.com/Architecture-UnityAIGameJam2026/UnityAIGameJam2026)** | In 24 hours, our four-person team built a co-op game using AI to generate the design, art, sound and code. I regenerated malformed meshes part by part, validated 64 Unity prefabs and integrated the companion AI, radio and shared HUD. [Trailer](https://kgr0831.github.io/assets/work/on-your-mark-trailer.mp4) · [Windows demo](https://github.com/Architecture-UnityAIGameJam2026/UnityAIGameJam2026/releases/tag/build-2026-11-19-level-flow) |
 
 ### Other project contributions
 
