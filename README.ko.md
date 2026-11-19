@@ -12,4 +12,9 @@ AI가 쓰이는 제품을 만듭니다. MOAI에서 AX Engineer Intern으로 일�
 | **[EUM](https://github.com/kgr0831/EUM2)** | 5인 팀에서 실시간 화이트보드 풀스택 개발. PixiJS v8·WebGPU 렌더러, 입력 보정과 전송 배칭. 당시 평균 23.7에서 58.7 FPS. 장비·객체 수 미기록. |
 | **[두드리](https://github.com/kgr0831/KOSSCCHTHON_2026)** | AI 경험 정리·교류 플랫폼. 2026 KOSSCCHTHON 대상. 수상 후 생성·버전·게시를 분리하고, 화면에서 편집할 때 직접 작성한 코드를 보존하도록 개선. |
 
+### 다른 프로젝트 기여
+
+- **[숭실대 시간표 데모](https://github.com/kgr0831/openSourceProject/tree/main/timetable-demo)** — 2026년 두 학기 4,722개 분반을 학기·학과별로 선택할 수 있게 했습니다. 시간이 미등록된 108개 분반은 목록에 남기고 추천에서 제외했습니다.
+- **[BeeRFriend 채용 페이지](https://beerfriend.co/apply.html)** — 지원자가 이력서와 포트폴리오를 각각 링크나 파일로 낼 수 있게 지원서를 개편했습니다. 자료가 빠지면 제출 전에 해당 입력란에 표시합니다.
+
 TypeScript · Next.js · Python · PixiJS · WebGPU · C · C# · Unity

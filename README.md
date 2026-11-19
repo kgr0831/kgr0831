@@ -12,4 +12,9 @@ I build products that put AI to use. AX Engineer Intern at MOAI.
 | **[EUM](https://github.com/kgr0831/EUM2)** | Real-time whiteboard in a five-person team. PixiJS v8 / WebGPU renderer, input smoothing and batched updates. Average 23.7 to 58.7 FPS in the original project measurement; hardware and object count were not recorded. |
 | **[Dudri](https://github.com/kgr0831/KOSSCCHTHON_2026)** | AI profiles and community. 1st prize at 2026 KOSSCCHTHON. Post-award work separated generation, versions and publication while preserving hand-written code during visual editing. |
 
+### Other project contributions
+
+- **[Soongsil timetable demo](https://github.com/kgr0831/openSourceProject/tree/main/timetable-demo)** — I made 4,722 class sections from both 2026 terms selectable by term and department. The 108 sections without meeting times stay in the catalog and are excluded from recommendations.
+- **[BeeRFriend careers page](https://beerfriend.co/apply.html)** — I updated the application form so applicants can provide a link or upload a file for each of their CV and portfolio. It flags missing material before submission.
+
 TypeScript · Next.js · Python · PixiJS · WebGPU · C · C# · Unity
